@@ -42,17 +42,4 @@ Includes smooth navigation, responsive design, and visually appealing styles.
 
 ---
 
-## 🚀 Installation & Setup
 
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/your-username/modernsite-css-react.git
-
-# 2️⃣ Navigate to the project folder
-cd modernsite-css-react
-
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Start the development server
-npm run dev
